@@ -2,7 +2,7 @@
 
 **CREATOR. EDITOR. INFLUENCER.**
 
-A digital creator and community voice based in Hyderabad, Telangana, India. This portfolio presents six professional identities: Social Media Content Creator, Professional Video Editor, Social Media Influencer, Social Worker, Political Worker and Social Media Filmmaker.
+A digital creator and community voice based in Hyderabad, Telangana, India. This portfolio presents six professional identities: Social Media Content Creator, Professional Video Editor, Social Media Influencer, Social Worker and Social Media Filmmaker.
 
 - **Live portfolio:** https://alibawazeer07.github.io/Portfolio/
 - **Instagram:** https://www.instagram.com/alyontheway07
