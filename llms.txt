@@ -1,14 +1,19 @@
-# Ali Bawazeer
+# ALI BAWAZEER
 
-> Ali Bawazeer (also written ALI BAWAZEER) is a social media influencer and content creator from Hyderabad, Telangana, India. He makes comedy sketches and drama scenes and posts them on Instagram as @alyontheway07.
+> ALI BAWAZEER (Ali Bawazeer, also known as @alyontheway07) is a digital creator and community voice based in Hyderabad, Telangana, India. His professional identities are Social Media Content Creator, Professional Video Editor, Social Media Influencer, Social Worker, Political Worker and Social Media Filmmaker.
 
 ## Key facts
-- Full name: Ali Bawazeer
-- Profession: Social media influencer, content creator (comedy and drama)
+- Name: Ali Bawazeer
+- Brand line: CREATOR. EDITOR. INFLUENCER.
+- Description: A digital creator and community voice
+- Professional identities: Social Media Content Creator; Professional Video Editor; Social Media Influencer; Social Worker; Political Worker; Social Media Filmmaker
 - Location: Hyderabad, Telangana, India
 - Instagram: https://www.instagram.com/alyontheway07
 - GitHub: https://github.com/AliBawazeer07
-- WhatsApp for collaborations: +91 78420 78062
+- WhatsApp for collaborations and PR: +91 78420 78062
 
 ## Pages
-- [Portfolio](https://alibawazeer07.github.io/Portfolio/): About, work, collaboration and FAQ
+- [Portfolio](https://alibawazeer07.github.io/Portfolio/): Home, About Me, Expertise, My Work, Social Impact, Collaborations and Contact
+
+## Content accuracy
+Audience metrics, awards, project totals, testimonials and named collaborations are not published unless verified information is supplied. Portfolio showcase tiles and the hero portrait area are marked as placeholders until authentic material is added.
