@@ -1,45 +1,66 @@
-# Ali Bawazeer Portfolio
+# ALI BAWAZEER — Portfolio
 
-Animated portfolio for Ali Bawazeer, comedy and drama content creator from Hyderabad, India.
-Plain HTML, CSS and JavaScript. No build step.
+**CREATOR. EDITOR. INFLUENCER.**
 
-Live URL: https://alibawazeer07.github.io/Portfolio/
+A digital creator and community voice based in Hyderabad, Telangana, India. This portfolio presents six professional identities: Social Media Content Creator, Professional Video Editor, Social Media Influencer, Social Worker, Political Worker and Social Media Filmmaker.
+
+- **Live portfolio:** https://alibawazeer07.github.io/Portfolio/
+- **Instagram:** https://www.instagram.com/alyontheway07
+- **GitHub:** https://github.com/AliBawazeer07
+- **WhatsApp (collaborations & PR):** +91 78420 78062
+
+## Technology
+
+Plain HTML, CSS and JavaScript. No build step, framework or package installation is required. The site is designed for GitHub Pages and deploys from the root of the `main` branch.
+
+## Repository structure
+
+- `index.html` — page content, navigation, SEO metadata and structured data
+- `css/style.css` — black, gold and charcoal visual system, responsive layout and motion
+- `js/main.js` — mobile navigation, rotating professional identities and scroll reveals
+- `assets/` — site identity artwork and icons
+- `sitemap.xml`, `robots.txt`, `llms.txt` — discovery and indexing resources
+
+## Editing the portfolio
+
+- Update text, links, FAQ answers and structured data in `index.html`.
+- Update design tokens and responsive styling in `css/style.css`.
+- Update the six rotating role labels and interactions in `js/main.js`.
+- Add an approved portrait to `assets/`, then replace the portrait placeholder in the hero section and update the social preview image if desired.
+- Add real video links or embeds in the My Work section when they are ready. Current project tiles are explicitly marked placeholders.
 
 ## Deploy from Termux
 
+For a fresh local copy:
+
 ```bash
-pkg install git unzip -y
-cd ~/storage/downloads          # run termux-setup-storage first if this folder is missing
-unzip Portfolio.zip -d Portfolio-site
-cd Portfolio-site/Portfolio
-git init
-git branch -M main
-git remote add origin https://github.com/AliBawazeer07/Portfolio.git
-git add .
-git commit -m "Launch portfolio"
-git push -u origin main --force
+pkg install git -y
+git clone https://github.com/AliBawazeer07/Portfolio.git
+cd Portfolio
 ```
 
-If the repo already has files you want to keep, run `git clone` first, copy these files over it, then commit and push normally.
+After making changes:
 
-GitHub asks for a username and a Personal Access Token as the password.
+```bash
+git add .
+git commit -m "Update portfolio"
+git push origin main
+```
 
-## Turn on GitHub Pages
+If you are starting from a downloaded ZIP rather than a clone, first back up any existing repository contents. Do not force-push over the remote repository.
 
-Repo > Settings > Pages > Build and deployment > Source: Deploy from a branch > Branch: `main`, folder `/ (root)` > Save.
-Wait about a minute, then open the live URL.
+## GitHub Pages
 
-## Get found on Google
+In the repository, open **Settings → Pages**. Set the source to **Deploy from a branch**, choose `main` and the `/ (root)` folder, then save. The published site is:
 
-1. Open https://search.google.com/search-console and add the URL-prefix property `https://alibawazeer07.github.io/Portfolio/`.
-2. Verify it with the HTML tag method: paste the given `<meta name="google-site-verification" ...>` into `<head>` in `index.html`, push, then click Verify.
-3. Submit `https://alibawazeer07.github.io/Portfolio/sitemap.xml` under Sitemaps, and use URL Inspection > Request indexing.
-4. Put the portfolio link in your Instagram bio and GitHub profile. Links from your own profiles help Google connect your name to this site.
-5. Do the same with Bing Webmaster Tools (it also feeds many AI search tools).
+https://alibawazeer07.github.io/Portfolio/
 
-## Editing
+## Search visibility
 
-- Text and links: `index.html`
-- Colours and motion: `css/style.css` (`:root` variables at the top)
-- Phone number for WhatsApp: `js/main.js` (`PHONE`) and the `wa.me` links in `index.html`
-- If you change the repo name or add a custom domain, update the URLs in `index.html`, `sitemap.xml`, `robots.txt` and `llms.txt`.
+The page includes a canonical URL, title and description metadata, Open Graph and Twitter card tags, Person and FAQPage JSON-LD, Hyderabad/India location metadata, `sitemap.xml` and `robots.txt`.
+
+To monitor indexing, add the GitHub Pages URL as a URL-prefix property in Google Search Console, verify ownership, submit `https://alibawazeer07.github.io/Portfolio/sitemap.xml`, and request indexing. Search engines decide when and how pages appear; metadata cannot guarantee a ranking.
+
+## Content accuracy
+
+No audience figures, project totals, awards, testimonials or partnership claims are published. The portrait and individual project showcase areas remain clearly marked placeholders until authentic assets and links are supplied.
